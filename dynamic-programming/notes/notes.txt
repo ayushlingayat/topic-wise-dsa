@@ -1,0 +1,33 @@
+1. knapsack recursive
+2. knapsack memoization
+3. knapsack top down
+4. subset sum problem
+5. equal sum partition problem.
+6. count subsets sum with a given sum
+7. minimum subset sum difference
+8. count the number of subset with a given difference
+9. target sum
+-------------
+10.
+11.
+12.
+13.
+14.
+15.
+16. Coin change problem: Minimum number of coins - https://practice.geeksforgeeks.org/problems/min-coin5549/1
+------------
+19. LCS Recursive : https://leetcode.com/problems/longest-common-subsequence/
+20.
+21.
+22. Longest Common Substring : https://leetcode.com/problems/maximum-length-of-repeated-subarray/ , https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1/
+23. Printing Longest common subsequence : https://www.geeksforgeeks.org/printing-longest-common-subsequence/
+24. Shortest Common Supersequence : https://leetcode.com/problems/shortest-common-supersequence/, https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1/
+25. Minimum Number of Insertion and Deletion to convert String a to String b : https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1 , https://leetcode.com/problems/delete-operation-for-two-strings/
+26. Longest Palindromic Subsequence : https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1/ , https://leetcode.com/problems/longest-palindromic-subsequence/
+28. Minimum number of deletion in a string to make it a palindrome : https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions4610/1/ , https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+29. Longest repeating subsequence : https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1
+30. Given two strings A and B, find if A is a subsequence of B : https://practice.geeksforgeeks.org/problems/check-for-subsequence4930/1/ , https://leetcode.com/problems/is-subsequence/
+
+Find number of times a string occurs as a subsequence in given string : https://www.geeksforgeeks.org/find-number-times-string-occurs-given-string/
+
+https://www.geeksforgeeks.org/tabulation-vs-memoization/
